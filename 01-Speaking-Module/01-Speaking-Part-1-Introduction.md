@@ -43,8 +43,16 @@
 ## 🛠️ Pronunciation & Practice Notes
 
 1. 🗣️ **Pah – Tah – kha** *(উচ্চারণ স্পষ্ট করার প্র্যাকটিস)*
-2. 🚫 **Omit "Y"**
+2. 🚫 **Omit "R"**
 3. 👅 **Tongue Twisters** *(মুখের জড়তা কাটানোর জন্য)*
+
+
+## The (Dhee) VS The (Dhah)
+A, E, I, O, U এর আগে দি উচ্চারণ হয়
+The End, The apple, The Egyptian, The IELTS Exam,
+
+Vowel (A, E, I, O, U) ছাড়া বাকি সব Consonant এর আগে দ্যা উচ্চারণ হয়।
+The door, The government, The Park, The team, The match.
 
 ---
 *নোট: এই ক্লাসের স্ট্রাকচারগুলো স্পিকিং পার্ট-১ এ ভালো ব্যান্ড স্কোর তোলার জন্য নিয়মিত প্র্যাকটিস করতে হবে।*
