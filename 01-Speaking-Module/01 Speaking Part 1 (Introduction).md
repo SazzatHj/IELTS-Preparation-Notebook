@@ -1,8 +1,4 @@
-# 🗣️ Class 01: Speaking Part 1 (Introduction)
-
-**Date:** 10-05-2026  
-**Batch No:** 3088  
-**Mentor:** Sharoj Amin Sikder  
+# 🗣️ Speaking Part 1 (Introduction)
 
 ---
 
