@@ -11,8 +11,8 @@
 | :--- | :---: | :---: | :--- |
 | **00. Orientation & Basics** | 02 | 02 / 02 | ✅ সম্পন্ন |
 | **01. Speaking Module** | 03 | 03 / 03 | ✅ সম্পন্ন |
-| **02. Listening Module** | 04 | 01 / 00 | 🔄 রানিং |
-| **03. Writing Module** | 14 | 00 / 00 | ⏳ শুরু হবে |
+| **02. Listening Module** | 04 | 01 / 04 | 🔄 রানিং |
+| **03. Writing Module** | 14 | 04 / 14 | 🔄 রান |
 | **04. Reading Module** | 07 | 00 / 01 | ⏳ শুরু হবে |
 
 ---
