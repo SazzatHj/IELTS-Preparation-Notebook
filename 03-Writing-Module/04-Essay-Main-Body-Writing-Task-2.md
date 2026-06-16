@@ -1,1 +1,67 @@
+# Main Body Writing of Essay (160-200 W)
 
+| Main body (TEE) <br> Essay তে দুইটা Main body লিখতে হবে। |
+| :--- |
+
+| T - Topic | E - Explanation | E - Example |
+| :--- | :--- | :--- |
+| টপিকের একটা পয়েন্ট নিয়ে কথা বলব | এবং এটি Explanation করব | Explanation শেষে কয়েকটা Example দিব |
+
+<br>
+
+> **TEE ফর্মেটে লিখতে ঝামেলা হলে বা উদাহরণ ভুলে গেলে নিচের দেওয়া ফর্মেটে লিখা যাবে, তবে প্যারা অনেক বড় হওয়ার সম্ভাবনা আছে তাই TEE তে ই লেখার চেষ্টা করতে হবে।**
+
+### ফর্মেট ১:
+* **Main body 1 (60-80 W)**
+  * Topic 1 + Explanation + Explanation
+* **Main body 2 (60-80 W)**
+  * Topic 2 + Explanation + Explanation
+
+**OR $\rightarrow$**
+
+### ফর্মেট ২:
+* **Main body 1**
+  * Topic 1 + Explanation + Moreover + Topic 2 + Explanation
+* **Main body 2**
+  * Topic 3 + Explanation + Furthermore + Topic 4 + Explanation
+
+**OR $\rightarrow$**
+
+### ফর্মেট ৩:
+* **Main body 1**
+  * Topic 1 + Explanation + Explanation
+* **Main body 2**
+  * Topic 2 + Explanation + Furthermore + Topic 3 + Explanation
+
+---
+
+> ⚠️ **গুরুত্বপূর্ণ নোট:**
+> IELTS এক্সামে Essay Writing এর সময় And, But, Because দিয়ে কোন বাক্য তৈরি করা যাবে না। 
+> And এর পরিবর্তে However ব্যবহার করা যাবে বিস্তারিত জানতে পরবর্তি ক্লাস দেখুন।
+
+---
+
+# How to write the essay main body part 1-2?
+
+**Question:**
+Younger people are getting addicted to social media, so some people think it's better to ban these networks. To what extent do you agree or disagree with the statement?
+
+---
+
+### Introduction (T-T-P)
+Social media plays a pivotal role in fast, reliable communication. However, young people nowadays are pretty much into these social networks. This is why some individuals believe it’s recommended to restrict these networks. In my opinion, I completely disagree with this statement, and I will discuss the possible reasons for my views.
+
+---
+
+### Main Body 1 (T-E-E)
+To begin with, social media plays a vital role in fast and reliable communication in today’s modern era. There was a time when communication was considered one of the most hectic tasks due to lack of modern facilities, but now, all you need astble internet connectionnand with a click you can easily send texts or give calls. For example, Facebook Messenger and WhatsApp are two of the most popular social networks for regular communication. Hence, if used the right way, social media can be a blessing rather than a curse.
+
+---
+
+### Main Body 2 (এখানে TTE ব্যবহার না করে TE+TE ব্যবহার করা হয়েছে Example ছাড়া)
+In addition, social media is quite an essential source for news and information today. People can now effortlessly gather any sort of news and data without breaking a sweat. Furthermore, online education is also quite accessible now as both professionals and students can simply sit back at their own place and enhance their career and education. Therefore, social media can also be a boon/blessing in this tech-cervine world, and restricting it cannot be the ultimate option.
+
+---
+
+### Conclusion
+*(ফাইলটিতে এই অংশটি খালি রাখা হয়েছে)*
