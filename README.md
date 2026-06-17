@@ -5,15 +5,15 @@
 
 ---
 
-## 📈 বর্তমান প্রিপারেশন ট্র্যাকার (Progress Tracker)
+## 📈 Progress Tracker
 
-| মডিউল বা সেকশন | মোট ক্লাস নোট | বর্তমান অগ্রগতি | স্ট্যাটাস |
+| Module | Total Notes | Progress | Status |
 | :--- | :---: | :---: | :--- |
-| **00. Orientation & Basics** | 02 | 02 / 02 | ✅ সম্পন্ন |
-| **01. Speaking Module** | 03 | 03 / 03 | ✅ সম্পন্ন |
-| **02. Listening Module** | 04 | 01 / 04 | 🔄 রানিং |
-| **03. Writing Module** | 14 | 04 / 14 | 🔄 রান |
-| **04. Reading Module** | 07 | 00 / 01 | ⏳ শুরু হবে |
+| **00. Orientation & Basics** | 02 | 02 / 02 | ✅ Completed |
+| **01. Speaking Module** | 03 | 03 / 03 | ✅ Completed |
+| **02. Listening Module** | 04 | 01 / 04 | 🔄 In Progress |
+| **03. Writing Module** | 14 | 04 / 14 | 🔄 In Progress |
+| **04. Reading Module** | 07 | 00 / 01 | ⏳ Not Started |
 
 ---
 
