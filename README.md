@@ -48,4 +48,4 @@
 3. **Contextual Vocabulary:** থ্রি-টেন্স (Past, Present, Future) মেথডে নতুন শব্দ আয়ত্ত করার চার্ট।
 
 ---
-*👤 এই ডিজিটাল নোটবুকটি মেইনটেইন করছেন **Sazzat Hj**। এটি সম্পূর্ণ একটি পারসোনাল লাইভ স্টাডি ডায়েরি।*
+*This digital notebook is curated and maintained by **Sazzat Hj**. It serves as a personal, live study diary documenting advanced methodologies.*
