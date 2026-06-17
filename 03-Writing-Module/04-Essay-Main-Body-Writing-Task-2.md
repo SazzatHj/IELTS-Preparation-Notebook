@@ -11,7 +11,7 @@
 
 > **TEE ফর্মেটে লিখতে ঝামেলা হলে বা উদাহরণ ভুলে গেলে নিচের দেওয়া ফর্মেটে লিখা যাবে, তবে প্যারা অনেক বড় হওয়ার সম্ভাবনা আছে তাই TEE তে ই লেখার চেষ্টা করতে হবে।**
 
-### ফর্মেট ১:
+### Format 1:
 * **Main body 1 (60-80 W)**
   * Topic 1 + Explanation + Explanation
 * **Main body 2 (60-80 W)**
@@ -19,7 +19,7 @@
 
 **OR $\rightarrow$**
 
-### ফর্মেট ২:
+### Format 2:
 * **Main body 1**
   * Topic 1 + Explanation + Moreover + Topic 2 + Explanation
 * **Main body 2**
@@ -27,7 +27,7 @@
 
 **OR $\rightarrow$**
 
-### ফর্মেট ৩:
+### Format 3:
 * **Main body 1**
   * Topic 1 + Explanation + Explanation
 * **Main body 2**
@@ -35,9 +35,9 @@
 
 ---
 
-> ⚠️ **গুরুত্বপূর্ণ নোট:**
-> IELTS এক্সামে Essay Writing এর সময় And, But, Because দিয়ে কোন বাক্য তৈরি করা যাবে না। 
-> And এর পরিবর্তে However ব্যবহার করা যাবে বিস্তারিত জানতে পরবর্তি ক্লাস দেখুন।
+### Important Note:
+- IELTS এক্সামে Essay Writing এর সময় And, But, Because দিয়ে কোন বাক্য তৈরি করা যাবে না। 
+- And এর পরিবর্তে However ব্যবহার করা যাবে বিস্তারিত জানতে পরবর্তি ক্লাস দেখুন।
 
 ---
 
@@ -49,7 +49,7 @@ Younger people are getting addicted to social media, so some people think it's b
 ---
 
 ### Introduction (T-T-P)
-Social media plays a pivotal role in fast, reliable communication. However, young people nowadays are pretty much into these social networks. This is why some individuals believe it’s recommended to restrict these networks. In my opinion, I completely disagree with this statement, and I will discuss the possible reasons for my views.
+Social media plays a pivotal role in fast, reliable communication.</span> However, young people nowadays are pretty much into these social networks. This is why some individuals believe it’s recommended to restrict these networks. In my opinion, I completely disagree with this statement, and I will discuss the possible reasons for my views.
 
 ---
 
