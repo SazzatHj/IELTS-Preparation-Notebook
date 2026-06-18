@@ -34,7 +34,7 @@
 * 📄 [Class 04: Listening Overview & Core Strategies](./02-Listening-Module/Class-04-Listening-Overview.md) — *৪টি সেকশনের প্রশ্ন পরিচিতি, শব্দ সংখ্যার নিয়ম ও ৪টি গোল্ডেন প্র্যাকটিস স্টেপ*
 
 ### ✍️ ০৩. রাইটিং মডিউল (Writing Module)
-* 📄 [Class 01: Writing Overview](./03-Writing-Module/Class-01-Writing-Overview.md) — *টাস্ক ১ এবং টাস্ক ২ এর রাইটিং গাইডলাইন*
+* 📄 [Class 01: Writing Overview](./03-Writing-Module/Class-01-Writing-Overview.md) — *টাস্ক-১ এবং টাস্ক-২ এর রাইটিং গাইডলাইন*
 
 ### 📖 ০৪. রিডিং মডিউল (Reading Module)
 * 📄 [Class 01: Reading Overview](./04-Reading-Module/Class-01-Reading-Overview.md) — *ভবিষ্যতের রিডিং ক্লাসের নোটের জন্য নির্ধারিত স্পেস*
