@@ -61,7 +61,7 @@
 
 ### Main Body 1&2
 <p align="right">
-  <a href="05-Essay-Main-Body-Writing-Task-2.md"><b>Next Lesson: Essay Main Body Writing ➡️</b></a>
+  <a href="04-Essay-Main-Body-Writing-Task-2.md"><b>Next Lesson: Essay Main Body Writing ➡️</b></a>
 </p>
 
 
