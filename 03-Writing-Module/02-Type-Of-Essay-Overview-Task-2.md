@@ -89,6 +89,11 @@ IELTS Writing Task 2-এ মূলত ৬ ধরনের এসেই এসে
   * **Paragraph 4:** Conclusion (W40-50)
 
 
+---
+
+<p align="right">
+  <a href="03-Essay-Introduction-Writing-Task-2.md"><b>Next Lesson: Essay Introduction Writing ➡️</b></a>
+</p>
 
 
 
