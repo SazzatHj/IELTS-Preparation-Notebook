@@ -1,5 +1,7 @@
 # 📚 IELTS-Preparation-Notebook
 
+Welcome! This is the live digital archive of my personal IELTS preparation. Here, you will find daily class lecture sheets, module-based structures, shortcut hacks, and self-practice guidelines—all perfectly organized.
+
 স্বাগতম! এটি আমার ব্যক্তিগত আইইএলটিএস (IELTS) প্রিপারেশনের একটি লাইভ ডিজিটাল আর্কাইভ। এখানে প্রতিদিনের ক্লাসের গুরুত্বপূর্ণ লেকচার শিট, মডিউল ভিত্তিক স্ট্রাকচার, শর্টকাট হ্যাকস এবং সেলফ-প্র্যাকটিস গাইডলাইনস সম্পূর্ণ গোছানো অবস্থায় রয়েছে।
 
 
@@ -19,7 +21,7 @@
 
 ## 🎯 Module-Based Complete Roadmap (Clickable Navigation)
 
-নClick on the modules or chapters below to navigate directly to the specific class notes:
+Click on the modules or chapters below to navigate directly to the specific class notes:
 
 ### 🔑 00. Orientation & Daily Schedule: The Basics
 * 📄 [Class 00: Orientation Class Plan](./00-Orientation-and-Basics/Class-00-Orientation-Class-Plan.md) — *কোর্সের মূল ওভারভিউ ও গাইডলাইন*
