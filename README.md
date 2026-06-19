@@ -12,7 +12,7 @@
 | **00. Orientation & Basics** | 02 | 02 / 02 | ✅ Completed |
 | **01. Speaking Module** | 03 | 03 / 03 | ✅ Completed |
 | **02. Listening Module** | 04 | 01 / 04 | 🔄 In Progress |
-| **03. Writing Module** | 14 | 04 / 14 | 🔄 In Progress |
+| **03. Writing Module** | 14 | 05 / 14 | 🔄 In Progress |
 | **04. Reading Module** | 07 | 00 / 01 | ⏳ Not Started |
 
 ---
@@ -49,3 +49,27 @@
 
 ---
 *This digital notebook is curated and maintained by **Sazzat Hj**. It serves as a personal, live study diary documenting advanced methodologies.*
+
+
+<!-- FOOTER -->
+---
+
+<p align="center">
+  <b>Let's Connect & Collaborate</b>
+</p>
+<p align="center">
+    <!-- LinkedIn -->
+<a href="https://linkedin.com/in/SazzatHj" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-🔗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <!-- Facebook -->
+<a href="https://facebook.com/Sazzathj" title="Follow on Facebook"><img src="https://img.shields.io/badge/Facebook-👥-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <!-- Portfolio -->
+<a href="https://sazzat.com" title="View my Portfolio"><img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+    <!-- Blog -->
+<a href="https://eracox.com" title="Read my Blog"><img src="https://img.shields.io/badge/Blog-✍️-orange?style=for-the-badge&logoColor=white" alt="Blog"></a></p>
+  
+<!-- Animated Typewriter Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&italic=true&weight=400&size=15&pause=2000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Supporting+sustainable+development+%26+youth+leadership+through+our+foundation." alt="Typing SVG" /> </br> <a href="https://titasfoundation.org"  title="Visit Our Foundation Site"><img src="https://img.shields.io/badge/Titas Foundation-🏛️-emerald?style=for-the-badge&logoColor=white" alt="Titas Foundation"></a>
+</p>
+
+---
