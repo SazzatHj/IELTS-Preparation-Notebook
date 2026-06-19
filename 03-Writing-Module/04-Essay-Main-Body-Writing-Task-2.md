@@ -65,7 +65,7 @@ In addition, social media is quite an essential source for news and information 
   
 ### Conclusion
 <p align="right">
-  <a href="05-Essay-Conculasion-Writing-Task-2.md"><b>Next Lesson: Essay Conclusion Writing ➡️</b></a>
+  <a href="05-Essay-Conclusion-Writing-Task-2.md"><b>Next Lesson: Essay Conclusion Writing ➡️</b></a>
 </p>
 
 <!-- FOOTER -->
