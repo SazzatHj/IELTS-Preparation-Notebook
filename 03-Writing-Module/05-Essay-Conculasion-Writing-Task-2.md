@@ -8,8 +8,8 @@ The ultimate guidelines and sample notes on writing IELTS Writing Task 2 conclus
 Conclusion বা উপসংহার প্যারাগ্রাফটি মূলত দুটি প্রধান উপাদানের সমন্বয়ে তৈরি হয়:
 1. **In conclusion, [Intro-র Opinion-এর Paraphrase করতে হবে]**
 2. **[Main Body-তে ব্যবহৃত মূল Topic-গুলোর একটি সামারি বা সারসংক্ষেপ যোগ করতে হবে]**
-3. Restate the ideas briefly
-4. Restate your opinion (If required)
+- Restate the ideas briefly
+- Restate your opinion (If required)
 
 ### Standard Structure (Opinion সহ)
 > **In conclusion, [Intro-র Opinion-এর Paraphrase]. [Social media topic 1 যেইটা use হয়েছে main body তে]. At the saame time, [topic-2 যেইটা use হয়েছে main body তে]. Furthermore, [topic-3 যেটা use হয়েছে main body তে].**
