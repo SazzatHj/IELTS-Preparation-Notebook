@@ -62,10 +62,11 @@ To begin with, social media plays a vital role in fast and reliable communicatio
 In addition, social media is quite an essential source for news and information today. People can now effortlessly gather any sort of news and data without breaking a sweat. Furthermore, online education is also quite accessible now as both professionals and students can simply sit back at their own place and enhance their career and education. Therefore, social media can also be a boon/blessing in this tech-cervine world, and restricting it cannot be the ultimate option.
 
 ---
-
+  
 ### Conclusion
-*[Essay Conclusion Writing](https://github.com/SazzatHj/IELTS-Preparation-Notebook/blob/main/03-Writing-Module/05-Essay-Conculasion-Writing-Task-2.md)* Visit this link
-
+<p align="right">
+  <a href="05-Essay-Conculasion-Writing-Task-2.md"><b>Next Lesson: Essay Conclusion Writing ➡️</b></a>
+</p>
 
 <!-- FOOTER -->
 ---
