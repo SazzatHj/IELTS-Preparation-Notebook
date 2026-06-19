@@ -57,6 +57,12 @@
 * **Practice Platform:** রেগুলার প্র্যাকটিস এবং ব্যান্ড স্কোর ৭+ (7+ Band Score) লেভেলের স্যাম্পল অ্যানসার দেখার জন্য [writing9.com](https://writing9.com) ওয়েবসাইটটি ফলো করতে পারেন।
 
 
+---
+
+### Main Body 1&2
+<p align="right">
+  <a href="05-Essay-Main-Body-Writing-Task-2.md"><b>Next Lesson: Essay Main Body Writing ➡️</b></a>
+</p>
 
 
 
