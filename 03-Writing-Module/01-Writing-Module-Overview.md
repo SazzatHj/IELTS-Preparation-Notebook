@@ -122,6 +122,9 @@ Modal Verbs মূলত বাক্যের মোড বা ভাব প্
 >   2. `to + Verb(V1)` $\rightarrow$ *to win the World Cup*
 
 ---
+<p align="right">
+  <a href="02-Essay-Overview-And-Types.md"><b>Next Lesson: Essay Overview And Types ➡️</b></a>
+</p>
 
 
 <!-- FOOTER -->
