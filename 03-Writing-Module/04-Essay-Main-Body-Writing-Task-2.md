@@ -64,4 +64,24 @@ In addition, social media is quite an essential source for news and information 
 ---
 
 ### Conclusion
-*(ফাইলটিতে এই অংশটি খালি রাখা হয়েছে)*
+*[Essay Conclusion Writing](https://github.com/SazzatHj/IELTS-Preparation-Notebook/blob/main/03-Writing-Module/05-Essay-Conculasion-Writing-Task-2.md)* Visit this link
+
+
+---
+
+<p align="center">
+  <b>Let's Connect & Collaborate</b>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/Sazzzathj"><img src="https://img.shields.io/badge/LinkedIn-🔗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://facebook.com/Sazzathj"><img src="https://img.shields.io/badge/Facebook-👥-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://sazzat.com"><img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+<a href="https://eracox.com"><img src="https://img.shields.io/badge/Blog-✍️-orange?style=for-the-badge&logoColor=white" alt="Blog"></a>
+  
+<a href="https://titasfoundation.org"><img src="https://img.shields.io/badge/Foundation-🏛️-emerald?style=for-the-badge&logoColor=white" alt="Foundation"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%20by-Sazzat%20Hj-success?style=flat-square" alt="Maintained by Sazzat Hj">
+</p>
