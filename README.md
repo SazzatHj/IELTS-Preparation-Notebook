@@ -17,26 +17,26 @@
 
 ---
 
-## 🎯 মডিউল ভিত্তিক সম্পূর্ণ রোডম্যাপ (Clickable Navigation)
+## 🎯 Module-Based Complete Roadmap (Clickable Navigation)
 
-নিচের মডিউল বা চ্যাপ্টারগুলোর ওপর ক্লিক করে সরাসরি নির্দিষ্ট ক্লাস নোটে চলে যান:
+নClick on the modules or chapters below to navigate directly to the specific class notes:
 
-### 🔑 ০০. ওরিয়েন্টেশন ও ডেইলি রুটিন (Orientation & Basics)
+### 🔑 00. Orientation & Daily Schedule: The Basics
 * 📄 [Class 00: Orientation Class Plan](./00-Orientation-and-Basics/Class-00-Orientation-Class-Plan.md) — *কোর্সের মূল ওভারভিউ ও গাইডলাইন*
 * 📅 [My IELTS Daily Study Plan & Routine](./Study-Plan.md) — *প্রতিদিনের প্রিপারেশন ট্র্যাকার, মুভি লিস্ট ও টেন্স মেথড প্র্যাকটিস*
 
-### 🗣️ ০১. স্পিকিং মডিউল (Speaking Module)
+### 🗣️ 01: Speaking Module
 * 📄 [Class 01: Speaking Part 1 - Introduction](./01-Speaking-Module/Class-01-Speaking-Part-1-Intro.md) — *পার্ট-১ এর মার্কিং ক্রাইটেরিয়া ও বাক্য গঠনের নিয়ম*
 * 📄 [Class 02: Speaking Part 2 - Cue Card Strategy](./01-Speaking-Module/Class-02-Speaking-Part-2-Cue-Card.md) — *১ মিনিট প্রিপারেশন ও ২ মিনিট অনর্গল কথা বলার ৪টি পিলার*
 * 📄 [Class 03: Speaking Part 3 - Broad Q&A (CORE Method)](./01-Speaking-Module/Class-03-Speaking-Part-3-Broad-QA.md) — *জটিল সামাজিক প্রশ্নের উত্তর সাজানোর ৭+ ব্যান্ড ফর্মুলা*
 
-### 🎧 ০২. লিসেনিং মডিউল (Listening Module)
+### 🎧 02. Listening Module
 * 📄 [Class 04: Listening Overview & Core Strategies](./02-Listening-Module/Class-04-Listening-Overview.md) — *৪টি সেকশনের প্রশ্ন পরিচিতি, শব্দ সংখ্যার নিয়ম ও ৪টি গোল্ডেন প্র্যাকটিস স্টেপ*
 
-### ✍️ ০৩. রাইটিং মডিউল (Writing Module)
+### ✍️ 03. Writing Module
 * 📄 [Class 01: Writing Overview](./03-Writing-Module/Class-01-Writing-Overview.md) — *টাস্ক-১ এবং টাস্ক-২ এর রাইটিং গাইডলাইন*
 
-### 📖 ০৪. রিডিং মডিউল (Reading Module)
+### 📖 04. Reading Module
 * 📄 [Class 01: Reading Overview](./04-Reading-Module/Class-01-Reading-Overview.md) — *ভবিষ্যতের রিডিং ক্লাসের নোটের জন্য নির্ধারিত স্পেস*
 
 
