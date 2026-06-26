@@ -1,4 +1,15 @@
+## 🎯 IELTS Listening Modules & Structure
 
+আইইএলটিএস লিসেনিং টেস্টে মোট ৪টি সেকশন থাকে। প্রতিটা সেকশনের প্রশ্নের ধরন এবং স্পিকারের সংখ্যা ভিন্ন হয়। নিচে এর একটি সম্পূর্ণ ব্রেকডাউন দেওয়া হলো:
+
+| Feature | Section 1 | Section 2 | Section 3 | Section 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Topic** | Phone Conversation <br>*(Course, Booking, Survey, etc.)* | Guide / Map | Academic Discussion | Lecture or <br>Presentation |
+| **Questions** | 1 - 10 | 11 - 20 | 21 - 30 | 31 - 40 |
+| **Question Type**| • Gap Filling *(Most times)*<br>• Single MCQ *(Sometimes)* | • Maps<br>• Single / Double MCQ<br>• Box Matching / Flow Chart | • Maps<br>• Single / Double MCQ<br>• Box Matching / Flow Chart | • Gap Filling |
+| **No. of Speakers**| **Speaker 2** *(Dialogue)* | **Speaker 1** *(Monologue)* | **Speaker 2/3** *(Discussion)* | **Speaker 1** *(Monologue)* |
+
+---
 
 
 
