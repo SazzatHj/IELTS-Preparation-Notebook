@@ -1,4 +1,20 @@
-## 🎯 IELTS Listening Modules & Structure
+
+# IELTS Listening Section 2 & Map Labelling Masterclass
+
+IELTS Listening টেস্টের **Section 2 (বা Part 2)**-এ সাধারণত একটি সামাজিক প্রেক্ষাপটে (Social Context) একজন স্পিকার কোনো একটি নির্দিষ্ট বিষয়, স্থান বা প্রজেক্ট নিয়ে দীর্ঘ বক্তব্য (Monologue) দেন। এই সেকশনে ভালো ব্যান্ড স্কোর নিশ্চিত করতে **Map/Plan Labelling** এবং এর সাথে জড়িত **Directional Connectors** এর নিখুঁত জ্ঞান থাকা আবশ্যক।
+
+---
+
+## 1. IELTS Listening Section 2: 
+
+* **Context:** Non-academic / Social context (যেমন: কোনো পার্ক গাইড, মিউজিয়াম ট্যুর, ক্লাবের পরিচিতি, বা কোনো লোকাল প্রজেক্টের বর্ণনা)।
+* **Speaker:** ১ জন (Monologue)। তবে মাঝেমধ্যে একজন রেডিও হোস্ট ভূমিকা দিতে পারেন, কিন্তু মূল তথ্য ১ জনই দেবেন।
+* **Question Types:** 
+  1. Map / Plan / Diagram Labelling (সবচেয়ে কমন)
+  2. Multiple Choice Questions (MCQs)
+  3. Matching Information
+
+### 🎯 IELTS Listening Modules & Structure
 
 আইইএলটিএস লিসেনিং টেস্টে মোট ৪টি সেকশন থাকে। প্রতিটা সেকশনের প্রশ্নের ধরন এবং স্পিকারের সংখ্যা ভিন্ন হয়। নিচে এর একটি সম্পূর্ণ ব্রেকডাউন দেওয়া হলো:
 
@@ -11,6 +27,88 @@
 
 ---
 
+## 2. Map & Plan Labelling-এর জন্য অপরিহার্য Connectors
+
+ম্যাপে সঠিক স্থানটি খুঁজে পাওয়ার জন্য স্পিকারের মুখের দিকনির্দেশনামূলক শব্দ বা কানেক্টরসগুলো ট্র্যাক করা সবচেয়ে গুরুত্বপূর্ণ। নিচে এগুলোকে ৩টি প্রধান ক্যাটাগরিতে ভাগ করে বিস্তারিত দেওয়া হলো:
+
+### a) Compass Directions (প্রধান দিকসমূহ)
+ম্যাপের ওপরে যদি কম্পাস (N, S, E, W) দেওয়া থাকে, তবে স্পিকার ডান/বাম না বলে দিক অনুযায়ী কথা বলবেন।
+
+| Connector | Meaning (বাংলা অর্থ) | Usage / Example (ব্যবহারের উদাহরণ) |
+| :--- | :--- | :--- |
+| **North** | উত্তর দিক (ম্যাপের ওপরের অংশ) | The car park is located to the **north** of the main building. |
+| **South** | দক্ষিণ দিক (ম্যাপের নিচের অংশ) | The picnic area lies just to the **south** of the lake. |
+| **East** | পূর্ব দিক (ম্যাপের ডান দিক) | You will find the gift shop on the **east** side. |
+| **West** | পশ্চিম দিক (ম্যাপের বাম দিক) | The residential blocks are to the far **west**. |
+| **North-East** | উত্তর-পূর্ব (ওপরে-ডানে) | The playground is in the **north-east** corner. |
+| **South-West** | দক্ষিণ-পশ্চিম (নিচে-বামে) | The entrance gate is situated in the **south-west**. |
+
+### b) Relative Position Connectors (পারস্পরিক অবস্থান)
+একটি নির্দিষ্ট স্থান বা বস্তুর সাপেক্ষে আরেকটি বস্তুর অবস্থান বোঝাতে এগুলো ব্যবহৃত হয়।
+
+| Connector | Meaning (বাংলা অর্থ) | Usage / Example (ব্যবহারের উদাহরণ) |
+| :--- | :--- | :--- |
+| **Beside / Next to / By** | পাশে / একদম সংলগ্ন | The reception desk is **next to** the entrance. / The bench is **by** the tree. |
+| **Near / Close to** | কাছে / অদূরে (একটু দূরত্ব থাকতে পারে) | The toilets are located **near** the cafeteria. |
+| **Inside** | ভেতরে | Once you go **inside** the exhibition hall, you'll see the statue. |
+| **Over / Above** | ওপরে (স্পর্শ না করে উঁচুতে / ব্রিজের মতো) | There is a wooden bridge **over** the river. |
+| **Under / Below** | নিচে | The maintenance room is right **under** the stairs. |
+| **Opposite / Face to face** | মুখোমুখি / বিপরীত পাশে | The library is **opposite** the science lab, across the corridor. |
+| **In front of** | সামনে | A beautiful fountain stands **in front of** the main hall. |
+| **Behind / At the back of** | পেছনে | The staff room is situated **behind** the stage. |
+
+### c) Movement & Navigation Connectors (গতিপথ ও মোড়)
+আপনি ম্যাপের কোন রাস্তা দিয়ে কীভাবে হেঁটে যাবেন বা কোন দিকে মোড় নিবেন, তা নির্দেশ করে।
+
+| Connector | Meaning (বাংলা অর্থ) | Usage / Example (ব্যবহারের উদাহরণ) |
+| :--- | :--- | :--- |
+| **Towards** | দিকে / অভিমুখে | Walk **towards** the greenhouse and you will see the path. |
+| **To** | পর্যন্ত / দিকে | Go straight **to** the end of the corridor. |
+| **Bend** | বাঁক / মোড় (রাস্তার বাঁক) | Just before the **bend** in the river, there is a bird hide. |
+| **Corner** | কোণ / কোণায় | The information desk is in the bottom right-hand **corner**. |
+| **Roundabout** | গোলচত্বর | At the **roundabout**, take the first exit on your left. |
+| **Go straight ahead** | সোজা সামনে এগিয়ে যান | **Go straight ahead** until you pass the fish pond. |
+| **Turn left / Turn right** | বামে মোড় নিন / ডানে মোড় নিন | Pass the main gate and **turn right** onto the gravel path. |
+| **Cross / Go across** | পার হওয়া (রাস্তা বা নদী) | **Go across** the footbridge to reach the orchard. |
+| **Lead off** | কোনো রাস্তা থেকে নতুন রাস্তা বের হওয়া | There are three paths **leading off** the central courtyard. |
+
+---
+
+## 3. টেক্সট-ভিত্তিক ম্যাপের উদাহরণ (Interactive Script Walkthrough)
+
+নিচের ম্যাপের লেআউট এবং অডিও স্ক্রিপ্টের উদাহরণটি লক্ষ্য করুন। এটি রিয়েল এক্সামের মতো আপনার কানকে ট্রেইন করতে সাহায্য করবে:
+
+### 🗺️ Map Layout (কল্পিত দৃশ্যপট):
+```
+                  [ NORTH ]
+     +-----------------------------------+
+     |   [?] (A)              [?] (B)    |
+     |  Greenhouse            Orchard    |
+     |                                   |
+     |          (O) Roundabout           |
+     |                 |                 |
+WEST |                 | Main Path       | EAST
+     |                 |                 |
+     |   [?] (C)       |       [?] (D)   |
+     |  Cafe           |      Gift Shop  |
+     +-----------------+-----------------+
+                   [ENTRANCE]
+                  [ SOUTH ]
+```
+
+### 🎧 Audio Script (স্পিকার যেভাবে বর্ণনা করবেন):
+> *"Welcome to the botanical gardens. Let me guide you from the **Entrance** at the south. If you walk up the **Main Path** going north, the first building you'll see on your left-hand side, just before the **Roundabout**, is the **Cafe** (C). Opposite the Cafe, on the right side of the path, is our newly renovated **Gift Shop** (D).* 
+> 
+> *Now, once you reach the **Roundabout**, if you take the first exit heading towards the **North-West**, you will come across the **Greenhouse** (A). Finally, if you go straight across the roundabout to the **North-East** corner, you'll find the **Orchard** (B)."*
+
+---
+
+## 4. Section 2-এ ব্যান্ড স্কোর ৭.০+ পাওয়ার প্রো-টিপস
+
+1. **Start Point খুঁজে বের করুন:** স্পিকার কথা শুরু করার আগেই ম্যাপে চোখ বুলিয়ে দেখুন আপনার শুরুর অবস্থান কোথায়। সাধারণত **"You are here"**, **"Entrance"**, বা **"Main Gate"** দিয়ে শুরু হয়।
+2. **পেন্সিল দিয়ে পয়েন্টার ট্র্যাক করুন:** অডিও চলার সময় আপনার পেন্সিলের মাথাটি ম্যাপের স্টার্টিং পয়েন্টে রাখুন এবং স্পিকার যেভাবে ডানে-বামে বা নর্থ-সাউথে যেতে বলবেন, পেন্সিলটি সেই অনুযায়ী ম্যাপের ওপর দিয়ে চালাতে থাকুন।
+3. **Synonyms-এর দিকে খেয়াল রাখুন:** স্পিকার সরাসরি ম্যাপের শব্দ নাও বলতে পারেন। যেমন: *"Next to"* এর জায়গায় বলতে পারেন *"Alongside"* বা *"Adjoining"*। *"Behind"* এর জায়গায় বলতে পারেন *"At the rear of"*।
+4. **Distractors থেকে সাবধান:** স্পিকার অনেক সময় ভুল তথ্য দিয়ে পরে তা সংশোধন করেন। যেমন: *"We initially planned to build the gym to the north, but instead, we decided to put it in the south."* তাই শেষ পর্যন্ত মনোযোগ দিয়ে শুনুন।
 
 
 <!-- FOOTER -->
