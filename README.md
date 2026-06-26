@@ -13,8 +13,8 @@ Welcome! This is the live digital archive of my personal IELTS preparation. Here
 | :--- | :---: | :---: | :--- |
 | **00. Orientation & Basics** | 02 | 02 / 02 | ✅ Completed |
 | **01. Speaking Module** | 03 | 03 / 03 | ✅ Completed |
-| **02. Listening Module** | 04 | 01 / 04 | 🔄 In Progress |
-| **03. Writing Module** | 14 | 05 / 14 | 🔄 In Progress |
+| **02. Listening Module** | 04 | 03 / 04 | 🔄 In Progress |
+| **03. Writing Module** | 14 | 06 / 14 | 🔄 In Progress |
 | **04. Reading Module** | 07 | 00 / 01 | ⏳ Not Started |
 
 ---
