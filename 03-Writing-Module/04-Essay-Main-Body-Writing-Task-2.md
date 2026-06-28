@@ -13,9 +13,9 @@
 
 ### Format 1:
 * **Main body 1 (60-80 W)**
-  * Topic 1 + Explanation + Explanation
+  * Topic 1 + Explanation + Expample
 * **Main body 2 (60-80 W)**
-  * Topic 2 + Explanation + Explanation
+  * Topic 2 + Explanation + Explample
 
 **OR $\rightarrow$**
 
