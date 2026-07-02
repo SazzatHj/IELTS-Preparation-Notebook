@@ -51,8 +51,9 @@ IELTS Writing Task 2-এ মূলত ৬ ধরনের এসেই এসে
   * **Paragraph 2:** Problem 1 + Solution 1 (W80-100) 
   * **Paragraph 3:** Problem 2 + Solution 2 (W80-100)
   * **Paragraph 4:** Conclusion (W40-50)
- 
-সেইম ভাবে, Cause and Effect এর ক্ষেত্রেও প্রথম মেইড বডিতে একটা টপিক এর Cause এবং তার Effect বর্ণনা করা লাগবে।
+
+> [!NOTE] 
+> সেইম ভাবে, Cause and Effect এর ক্ষেত্রেও প্রথম মেইড বডিতে একটা টপিক এর Cause এবং তার Effect বর্ণনা করা লাগবে।
 
 ---
 
