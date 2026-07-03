@@ -121,4 +121,128 @@ When dealing with Combined/Mixed graphs, they typically form the following pairs
 
 ---
 
-## 4. Recommended Vocabulary (VVI)
+## 4. Recommended Vocabulary for Writing Task 1: (Lexical Resource)
+
+This comprehensive reference note categorizes all critical vocabulary required to describe trends, changes, dates, percentages, and approximations for IELTS Academic Writing Task 1.
+*(আইইএলটিএস একাডেমিক রাইটিং টাস্ক ১-এর ট্রেন্ড, পরিবর্তন, তারিখ, শতকরা হিসাব এবং আনুমানিক পরিমাপ প্রকাশের জন্য প্রয়োজনীয় সকল গুরুত্বপূর্ণ শব্দভাণ্ডারের একটি প্রফেশনাল নোট।)*
+
+---
+
+## 4.1 Vocabulary to Show Trend Changes (ট্রেন্ড বা পরিবর্তনের শব্দভাণ্ডার)
+
+### A. Upward Movement (Increase)
+*   **Verb Forms:** rise, increase, go up, uplift, rocket / rocketed, climb, upsurge, soar, shot up, improve, jump, leap, move upward, skyrocket, surge.
+    *   *বাংলা অর্থ:* বৃদ্ধি পাওয়া, ওপরে ওঠা, দ্রুত গতিতে বাড়া।
+*   **Noun Forms:** a rise, an increase, an upward trend, a growth, a leap, a jump, an improvement, a climb.
+    *   *বাংলা অর্থ:* বৃদ্ধি, ঊর্ধ্বমুখী ধারা, অগ্রগতি।
+
+### B. Downward Movement (Decrease)
+*   **Verb Forms:** fall, decrease, decline, plummet, plunge, drop, reduce, collapse, deteriorate, dip, dive, go down, take a nosedive, slum, slide, go into free-fall.
+    *   *বাংলা অর্থ:* কমে যাওয়া, নিচে নামা, ধস নামা, তীব্রভাবে হ্রাস পাওয়া।
+*   **Noun Forms:** a fall, a decrease, a reduction, a downward trend, a downward tendency, a decline, a drop, a slide, a collapse, a downfall.
+    *   *বাংলা অর্থ:* পতন, হ্রাস, নিম্নমুখী প্রবণতা।
+
+### C. Stability & Plateau (Steadiness/স্থিরতা বা অপরিবর্তিত অবস্থা)
+*   **Verb Forms:** unchanged, level out / leveled off, remain constant, remain steady, plateau / plateaued, remain the same, remain stable, remain static, prevail / prevailed, consistency, reach / reached a plateau, stay / stayed uniform, immutable, level / leveled out, stabilise, remain / remained the same.
+    *   *বাংলা অর্থ:* অপরিবর্তিত থাকা, এক অবস্থায় স্থির থাকা, সমান্তরাল হওয়া।
+*   **Noun Forms:** a steadiness, a plateau, a stability, a static, no change, a flat.
+    *   *বাংলা অর্থ:* স্থায়িত্ব, সমতল অবস্থা, পরিবর্তনহীনতা।
+
+### D. Gradual & Constant Trends (ধীরে ধীরে বা ধারাবাহিক পরিবর্তন)
+*   **Gradual Increase (ধীরে ধীরে বৃদ্ধি - Noun):** an upward trend, an upward tendency, a ceiling trend.
+*   **Gradual Decrease (ধীরে ধীরে হ্রাস - Noun):** a downward trend, a downward tendency, a descending trend.
+
+---
+
+## 4.2 Vocabulary to Represent Speed & Degree of Changes (পরিবর্তনের গতি ও মাত্রা)
+
+| Type of Change (পরিবর্তনের ধরন) | Adverb Form (ক্রিয়া বিশেষণ) | Adjective Form (বিশেষণ) | বাংলা অর্থ ও ব্যাখ্যা |
+| :--- | :--- | :--- | :--- |
+| **Great Change / Huge Difference** | overwhelmingly, substantially, enormously | overwhelming, substantial, enormous | অত্যন্ত বিশাল বা ব্যাপক পরিবর্তন বোঝাতে। |
+| **Rapid Change** | dramatically, rapidly, sharply, quickly, hurriedly, speedily, swiftly, significantly, considerably, substantially, noticeably | dramatic, rapid, sharp, quick, hurried, speedy, swift, significant, considerable, substantial, noticeable | খুব দ্রুত এবং বড় ধরনের পরিবর্তন বা উত্থান-পতন বোঝাতে। |
+| **Big Change / Big Difference** | significantly, considerably | significant, considerable | উল্লেখযোগ্য বা বড় ধরনের পার্থক্য দেখাতে। |
+| **Moderate Change** | moderately, gradually, progressively, sequentially, somewhat | moderate, gradual, progressive, sequential, somewhat | মাঝারি ধরনের বা ক্রমান্বয়ে ঘটা পরিবর্তন। |
+| **Steady Change** | steadily, ceaselessly | steady, ceaseless | বিরতিহীন বা স্থিতিশীল ধারাবাহিক পরিবর্তন। |
+| **Slight / Minor Change** | slightly, slowly, mildly, tediously, fractionally, marginally | slight, slow, mild, tedious, fractional, marginal | অতি সামান্য বা নামমাত্র পরিবর্তন বা পার্থক্য। |
+
+---
+
+## 4.3 Vocabulary for Frequent Changes / Fluctuations (Rapid ups and downs)
+
+যখন কোনো গ্রাফের ডেটা নির্দিষ্ট কোনো ধারায় না গিয়ে অনবরত বাড়তে এবং কমতে থাকে (জিগ-জ্যাগ লাইন), তখন নিচের শব্দগুলো ব্যবহার করতে হবে:
+
+*   **Verb Forms:** wave, fluctuate, oscillate, vacillate, palpitate.
+    *   *বাংলা অর্থ:* অনবরত ওঠানামা করা, কাঁপানো বা তরঙ্গের মতো রূপ নেওয়া।
+*   **Noun Forms:** waves, fluctuations, oscillations, vacillations, palpitations.
+    *   *বাংলা অর্থ:* ঘন ঘন পরিবর্তন বা অস্থির ওঠানামার অবস্থা।
+
+---
+
+## 4.4 Dates, Months, & Years Related Timeframes (Vocab+Grammar)
+
+টাস্ক ১-এর রিপোর্টে সময়ের নিখুঁত বৈচিত্র্য দেখানোর জন্য এই ফ্রেজগুলো অত্যন্ত প্রফেশনাল ভূমিকা রাখে:
+
+*   **নির্দিষ্ট সময়সীমা:** From 1990 to 2000 / Between 1995 and 2005.
+*   **শুরু বা পরবর্তী সময়:** Commencing from 1980 / After 2012 / Since / Then / From.
+*   **নির্দিষ্ট সাল/মাস এবং সময়কাল:** By 1995 / In 1998 / In February / Over the period / During the period / During 2011.
+*   **অর্ধেক বা কোয়ার্টার প্রকাশ:** In the first half of the year / For the first quarter / The last quarter of the year.
+*   **দশক বা নির্দিষ্ট মাস/বছর:** In the 80s / In the 1980s / During the first decade / During the next 6 months / In the mid-70s / Next 10 years / Previous year / Next year.
+*   **নির্দিষ্ট ব্যবধান:** Within a time span of ten years / within five years.
+*   **চলতি বিবরণ:** Next month / Next quarter / Next year / Previous month.
+
+---
+
+## 4.5 Percentages, Portions, & Numbers (শতকরা, অনুপাত ও সংখ্যার প্রফেশনাল রূপান্তর)
+
+বারবার সংখ্যা বা পার্সেন্টেজ সরাসরি না লিখে সেগুলোকে ফ্রাকশন (Fraction) বা প্রপোরশনে (Proportion) রূপান্তর করলে লেক্সিক্যাল রিসোর্সে ব্যান্ড স্কোর অনেক বাড়ে।
+
+### A. Fractions (ভগ্নাংশ রূপান্তর)
+*   **4%** = A tiny fraction *(একটি অতি ক্ষুদ্র অংশ)*
+*   **24%** = Almost a quarter *(প্রায় এক-চতুর্থাংশ)*
+*   **25%** = Exactly a quarter *(ঠিক এক-চতুর্থাংশ)*
+*   **26%** = Roughly one quarter *(মোটামুটি এক-চতুর্থাংশ)*
+*   **32%** = Nearly one-third / nearly a third *(প্রায় এক-তৃতীয়াংশ)*
+*   **49%** = Around a half / just under a half *(অর্ধেকের কাছাকাছি / অর্ধেকের ঠিক নিচে)*
+*   **50%** = Exactly a half *(ঠিক অর্ধেক)*
+*   **51%** = Just over a half *(অর্ধেকের ঠিক ওপরে)*
+*   **73%** = Nearly three quarters *(প্রায় তিন-চতুর্থাংশ)*
+*   **77%** = Approximately three quarter / more than three-quarter *(আনুমানিক তিন-চতুর্থাংশ)*
+*   **79%** = Well over three quarters *(তিন-চতুর্থাংশের বেশ ওপরে)*
+
+### B. Proportions (অনুপাত বা অংশ)
+*   **2%** = A tiny portion / a very small proportion *(একটি অতি ক্ষুদ্র অংশ)*
+*   **4%** = An insignificant minority / an insignificant proportion *(তাৎপর্যহীন সংখ্যালঘু বা অপ্রধান অংশ)*
+*   **16%** = A small minority / a small portion *(ছোট সংখ্যালঘু অংশ)*
+*   **70%** = A large proportion *(একটি বড় অংশ)*
+*   **72%** = A significant majority / A significant proportion *(উল্লেখযোগ্য সংখ্যাগরিষ্ঠ অংশ)*
+*   **89%** = A very large proportion / A very large majority *(বিশাল বড় অংশ / বিশাল সংখ্যাগরিষ্ঠ)*
+
+### C. Numeric Multipliers (সংখ্যা বৃদ্ধির বৈচিত্র্য)
+*   **Doubled / Double fold:** দ্বিগুণ হওয়া।
+*   **Tripled / Treble:** তিনগুণ হওয়া।
+*   **5 times higher / 3 times lower:** ৫ গুণ বেশি বা ৩ গুণ কম।
+*   **One-fourth / Three-quarters / Half:** চার ভাগের এক ভাগ / চার ভাগের তিন ভাগ / অর্ধেক।
+
+---
+
+## 4.6 Words & Phrases of Approximation (আনুমানিক পরিমাপ প্রকাশের শব্দভাণ্ডার)
+
+যেহেতু আইইএলটিএস গ্রাফে সবসময় শতভাগ নিখুঁত সংখ্যা বোঝা যায় না, তাই ডেটা রিপোর্টিংকে বাস্তবসম্মত করতে এই Approximation বা কাছাকাছি অর্থপ্রকাশক শব্দগুলো ব্যবহার করা বাধ্যতামূলক:
+
+*   **Approximately:** আনুমানিক বা কাছাকাছি।
+*   **Nearly:** প্রায় বা কাছাকাছি।
+*   **Roughly:** মোটামুটি বা প্রায়।
+*   **Almost:** প্রায়।
+*   **About / Around:** কাছাকাছি বা আশেপাশে।
+*   **More or less:** কম-বেশি বা মোটামুটি।
+*   **Just over:** সামান্য বা ঠিক ওপরে।
+*   **Just under / Just below:** সামান্য বা ঠিক নিচে।
+*   **Just around / Just about:** ঠিক এই আশেপাশেই।
+*   **A little more than:** সামান্য একটু বেশি।
+*   **A little less than:** সামান্য একটু কম।
+
+
+
+
+
+
