@@ -30,8 +30,14 @@ The line graph shows the percentage of tourists to England who visited for diffe
 * **Strategy:** Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
 * **Rule:** No percentages or years in this section—just the big picture!
 
-> **Drafting Example:**
-> *"Overall, it is clear that while the Pavilion and Pier attracted an increasing share of visitors over the period, attendance at Art Galleries experienced a sharp rise followed by a dramatic decline. Festivals remained relatively stable with a minor downward trend before recovering towards the end of the timeline."*
+
+**Overview Example:**
+
+Overall, it is clear that Piar and Pavilion saw an increase in the percentage of visitors between 1980 and 2010. In contrast, Art Gallery and Festival experienced a fall in the rates of tourists over the same period.
+
+> [!TIP]
+> **Overall, it is clear that** এটা দিয়ে সব সময় Overview লিখা শুরু করব।
+ 
 
 ### 3. Body Paragraph 1: Detailed Data Analysis (Major Trends)
 * **Strategy:** Focus on the dominant trends. For instance, describe the dramatic surge of Art Galleries in 1985 and the steady climb of Pavilions peaking in 1995. Use precise figures.
