@@ -78,28 +78,49 @@ IELTS Listening টেস্টের **Section 2 (বা Part 2)**-এ সা�
 
 নিচের ম্যাপের লেআউট এবং অডিও স্ক্রিপ্টের উদাহরণটি লক্ষ্য করুন। এটি রিয়েল এক্সামের মতো আপনার কানকে ট্রেইন করতে সাহায্য করবে:
 
-### 🗺️ Map Layout (কল্পিত দৃশ্যপট):
-```
-                  [ NORTH ]
-     +-----------------------------------+
-     |   [?] (A)              [?] (B)    |
-     |  Greenhouse            Orchard    |
-     |                                   |
-     |          (O) Roundabout           |
-     |                 |                 |
-WEST |                 | Main Path       | EAST
-     |                 |                 |
-     |   [?] (C)       |       [?] (D)   |
-     |  Cafe           |      Gift Shop  |
-     +-----------------+-----------------+
-                   [ENTRANCE]
-                  [ SOUTH ]
-```
+### 🗺️ Map Layout:
 
-### 🎧 Audio Script (স্পিকার যেভাবে বর্ণনা করবেন):
-> *"Welcome to the botanical gardens. Let me guide you from the **Entrance** at the south. If you walk up the **Main Path** going north, the first building you'll see on your left-hand side, just before the **Roundabout**, is the **Cafe** (C). Opposite the Cafe, on the right side of the path, is our newly renovated **Gift Shop** (D).* 
-> 
-> *Now, once you reach the **Roundabout**, if you take the first exit heading towards the **North-West**, you will come across the **Greenhouse** (A). Finally, if you go straight across the roundabout to the **North-East** corner, you'll find the **Orchard** (B)."*
+<!-- PROFIESSONAL IMAGE EMBED -->
+<p align="center">
+  <img src="../assets/listening/croft-vally-park-map.jpeg" alt="IELTS Listening Map" width="650px" />
+</p>
+
+### Questions 11–16: Map Labeling
+
+| No. | Location / Feature | Your Answer |
+| :--- | :--- | :--- |
+| **11** | café | |
+| **12** | toilets | |
+| **13** | formal gardens | |
+| **14** | outdoor gym | |
+| **15** | skateboard ramp | |
+| **16** | wild flowers | |
+
+<p align="left">
+  <audio src="../assets/listening/listening-practice-1.mp3" controls></audio>
+</p>
+
+### 🎧 Audio Script
+As chair of the town council subcommittee on park facilities, I’d like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let’s begin with a general overview. So the basic arrangement of the park hasn’t changed – it still has two gates, north and south, and a lake in the middle.
+
+The café continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum. (Q11)
+
+We’re hoping to change the location of the toilets, and bring them nearer to the centre of the park as they’re a bit out of the way at present, near the adventure playground, in the corner of your map. (Q12)
+
+The formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we’re now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum. (Q13)
+
+We have a new outdoor gym for adults and children, which is already proving very popular. It’s by the glass houses, just to the right of the path from the south gate. You have to look for it as it’s a bit hidden in the trees. (Q14)
+
+One very successful introduction has been our skateboard ramp. It’s in constant use during the evenings and holidays. It’s near the old museum, at the end of a little path that leads off from the main path between the lake and the museum. (Q15)
+
+We’ve also introduced a new area for wild flowers, to attract bees and butterflies. It’s on a bend in the path that goes round the east side of the lake, just south of the adventure playground. (Q16)
+
+---
+Now let me tell you a bit more about some of the changes to Croft Valley Park.
+
+One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. It’s open year-round, though it close early in the winter months, and entrance is completely free (Q17/Q18). Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there (Q17/Q18). There are plenty of seats where parents can relax and keep an eye on their children at the same time.
+
+Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side (Q19/Q20). Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it’s hoped to extend this to the weekend soon (Q19/Q20). We’re grateful to all those who helped us by contributing their time and money to this achievement.
 
 ---
 
