@@ -83,6 +83,11 @@ IELTS Listening টেস্টের **Section 2 (বা Part 2)**-এ সা�
   <video src="../assets/listening/croft-vally-park-map.mp4" controls height="60px" width="100%"></video>
 </p>
 
+### 🎧 1. Listening Video Player
+আপনি চাইলে সরাসরি নিচের এই ইউটিউব থাম্বনেইলে ক্লিক করে ভিডিওটি নতুন ট্যাবে ওপেন করে অডিও শুনতে শুনতে ম্যাপটি সলভ করতে পারেন:
+
+[![Click to Play Croft Valley Park Map Track](https://img.youtube.com/vi/YDRHGuFGFSM/maxresdefault.jpg)](https://www.youtube.com/watch?v=YDRHGuFGFSM)
+
 ### 🗺️ Map Layout: 
 <!-- PROFIESSONAL IMAGE EMBED -->
 <p align="center">
