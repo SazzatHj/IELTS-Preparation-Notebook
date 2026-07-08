@@ -26,7 +26,7 @@ The line graph shows the percentage of tourists to England who visited for diffe
 > **Introduction Example:**
 > *"The line chart compares/demonstraites/illustrates the rates/resio of visitors to Brighton, England, who visited four various tourist spots from 1980 to 2010."*
 
-### 2. General Overview (The Most Crucial Paragraph)
+### 2. General Overview (The Most Crucial Paragraph, and It will be Two Sentences)
 * **Strategy:** Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
 * **Rule:** No percentages or years in this section—just the big picture!
 
