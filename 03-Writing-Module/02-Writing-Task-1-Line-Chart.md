@@ -4,6 +4,21 @@ This module focuses on analyzing and describing data from a Line Chart in IELTS 
 
 ---
 
+## Report Writing Format and Role
+
+### 1. Introduction (Paraphrase the Question in ONE SENTENCE)
+* **Strategy:** Rewrite the question/title using synonyms. Change the sentence structure without changing the core meaning. At least 70-75% paraphrase, and it will be 1 sentence.
+* **Key Vocabulary:** *illustrates, depicts, compares, reveals, trends, percentages, proportions.*
+
+### 2. General Overview (The Most Crucial Paragraph, and It will be Two Sentences)
+* **Strategy:** Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
+* **Rule:** No percentages or years in this section—just the big picture!
+
+> [!TIP]
+> **Overall, it is clear that** এটা দিয়ে সব সময় Overview লিখা শুরু করব।
+
+---
+
 ## 📊 The Task Stimulus
 
 The line graph shows the percentage of tourists to England who visited for different attractions in Brighton.
@@ -19,20 +34,10 @@ The line graph shows the percentage of tourists to England who visited for diffe
 
 ## 📑 Structured Report Template (Band 7+)
 
-### 1. Introduction (Paraphrase the Question in ONE SENTENCE)
-* **Strategy:** Rewrite the question/title using synonyms. Change the sentence structure without changing the core meaning. At least 70-75% paraphrase, and it will be 1 sentence.
-* **Key Vocabulary:** *illustrates, depicts, compares, reveals, trends, percentages, proportions.*
-
-> **Introduction Example:**
+### Introduction
 > *"The line chart compares/demonstraites/illustrates the rates/resio of visitors to Brighton, England, who visited four various tourist spots from 1980 to 2010."*
 
-### 2. General Overview (The Most Crucial Paragraph, and It will be Two Sentences)
-* **Strategy:** Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
-* **Rule:** No percentages or years in this section—just the big picture!
-
-
-**Overview Example:**
-
+### Overview Example
 Overall, it is clear that Piar and Pavilion saw an increase in the percentage of visitors between 1980 and 2010. In contrast, Art Gallery and Festival experienced a fall in the rates of tourists over the same period.
 
 > [!TIP]
