@@ -116,13 +116,6 @@ One very successful introduction has been our skateboard ramp. It’s in constan
 We’ve also introduced a new area for wild flowers, to attract bees and butterflies. It’s on a bend in the path that goes round the east side of the lake, just south of the adventure playground. (Q16)
 
 ---
-Now let me tell you a bit more about some of the changes to Croft Valley Park.
-
-One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. It’s open year-round, though it close early in the winter months, and entrance is completely free (Q17/Q18). Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there (Q17/Q18). There are plenty of seats where parents can relax and keep an eye on their children at the same time.
-
-Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side (Q19/Q20). Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it’s hoped to extend this to the weekend soon (Q19/Q20). We’re grateful to all those who helped us by contributing their time and money to this achievement.
-
----
 
 ## 4. Section 2-এ ব্যান্ড স্কোর ৭.০+ পাওয়ার প্রো-টিপস
 
