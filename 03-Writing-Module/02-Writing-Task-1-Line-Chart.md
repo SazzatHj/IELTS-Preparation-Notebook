@@ -19,12 +19,12 @@ The line graph shows the percentage of tourists to England who visited for diffe
 
 ## 📑 Structured Report Template (Band 7+)
 
-### 1. Introduction (Paraphrase the Question)
-* **Strategy:** Rewrite the prompt using synonyms. Change the sentence structure without changing the core meaning.
+### 1. Introduction (Paraphrase the Question in ONE SENTENCE)
+* **Strategy:** Rewrite the question/title using synonyms. Change the sentence structure without changing the core meaning. At least 70-75% paraphrase, and it will be 1 sentence.
 * **Key Vocabulary:** *illustrates, depicts, compares, reveals, trends, percentages, proportions.*
 
-> **Drafting Example:**
-> *"The line graph illustrates the proportion of visitors who attended four different types of cultural attractions—namely Art Galleries, Pavilions, Piers, and Festivals—between 1980 and 2010."*
+> **Introduction Example:**
+> *"The line chart compares/demonstraites/illustrates the rates/resio of visitors to Brighton, England, who visited four various tourist spots from 1980 to 2010."*
 
 ### 2. General Overview (The Most Crucial Paragraph)
 * **Strategy:** Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
