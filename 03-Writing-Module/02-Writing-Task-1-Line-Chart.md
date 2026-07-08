@@ -11,8 +11,8 @@ This module focuses on analyzing and describing data from a Line Chart in IELTS 
 * **Key Vocabulary:** *illustrates, depicts, compares, reveals, trends, percentages, proportions.*
 
 ### 2. General Overview (The Most Crucial Paragraph, and It will be Two Sentences)
-* **Strategy:** Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
-* **Rule:** No percentages or years in this section—just the big picture!
+* The Overview section (2nd paragraph) block must **never** contain specific numbers, data values, raw figures, or precise percentages. You may only state the general year or timeline if necessary to mark the trend —just the big picture!
+* Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
 
 > [!TIP]
 > **Overall, it is clear that** এটা দিয়ে সব সময় Overview লিখা শুরু করব।
