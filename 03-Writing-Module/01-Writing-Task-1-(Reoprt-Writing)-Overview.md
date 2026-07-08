@@ -98,7 +98,7 @@ When dealing with Combined/Mixed graphs, they typically form the following pairs
 *(ওভারভিউ বা সারসংক্ষেপের অংশে **কখনোই** কোনো নির্দিষ্ট সংখ্যা, ডেটা ভ্যালু বা নিখুঁত পার্সেন্টেজ উল্লেখ করা যাবে না। তবে ট্রেন্ড বা ধারা বোঝাতে চাইলে সাধারণ সময় বা সাল উল্লেখ করা যেতে পারে (যেমন: *"...over the 10-year period"*)।
 
 #### 📈 Rule 8: Main Body Strategy for Constant/Continuous Trends (Increase/descrease)
-*If a Line Chart or Bar Chart shows a continuous increase or decrease across the entire timeline, your Main Bodies should highlight the **starting point (beginning)**, the **intermediary key movements (middle shifts)**, and the final state at the **end**.
+* If a Line Chart or Bar Chart shows a continuous increase or decrease across the entire timeline, your Main Bodies should highlight the **starting point (beginning)**, the **intermediary key movements (middle shifts)**, and the final state at the **end**.
 *(যদি কোনো গ্রাফে শুরু থেকে শেষ পর্যন্ত শুধু ক্রমাগত বৃদ্ধি বা হ্রাস (টানা বাড়া বা কমা) দেখা যায়, তবে আপনার মেইন বডিতে **শুরুর পয়েন্ট**, **মাঝখানের প্রধান পরিবর্তন** এবং **শেষের অবস্থাটি** ফুটিয়ে তুলতে হবে।)*
 
 #### 📊 Rule 9: Main Body Strategy for Segmented Trends (Increase/descrease)
