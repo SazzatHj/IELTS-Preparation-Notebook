@@ -80,7 +80,7 @@ IELTS Listening টেস্টের **Section 2 (বা Part 2)**-এ সা�
 
 ### 🗺️ Listening Map Audio
 <p align="left">
-  <audio src="../assets/listening/croft-vally-park-map.m4a" controls></audio>
+  <audio src="https://raw.githubusercontent.com/SazzatHj/IELTS-Preparation-Notebook/main/assets/listening/croft-vally-park-map.m4a" controls></audio>
 </p>
 
 ### 🗺️ Map Layout: 
