@@ -17,12 +17,22 @@ This module focuses on analyzing and describing data from a Line Chart in IELTS 
 > [!TIP]
 > **Overall, it is clear that** এটা দিয়ে সব সময় Overview লিখা শুরু করব।
 
+
 ---
 
-## 📊 The Task Stimulus
+## Vocabulary Cheat Sheet for Line Graphs
+
+| Trend Type | Verbs | Nouns | Adjectives / Adverbs |
+| :--- | :--- | :--- | :--- |
+| **Upward ↑** | Rose, Increased, Climbed, Surged, Peaked | A rise, An increase, A growth, A surge | Sharp, Dramatic, Steady, Significant |
+| **Downward ↓** | Fell, Decreased, Declined, Dropped, Plummeted | A fall, A decrease, A decline, A drop | Slight, Gradual, Sharp, Steep |
+| **Stability →** | Remained stable, Leveled off, Fluctuated | Fluctuations, Stability | Relatively, Marginally, Rapidly |
+
+---
+
+## 📊 The Real Example
 
 The line graph shows the percentage of tourists to England who visited for different attractions in Brighton.
-
 <!-- PROFIESSONAL IMAGE EMBED -->
 <p align="center">
   <img src="../assets/writing/line-graph-task-1.jpg" alt="IELTS Writing Task 1 Line Chart" width="650px" />
@@ -35,13 +45,15 @@ The line graph shows the percentage of tourists to England who visited for diffe
 ## 📑 Structured Report Template (Band 7+)
 
 ### Introduction
-> *"The line chart compares/demonstraites/illustrates the rates/resio of visitors to Brighton, England, who visited four various tourist spots from 1980 to 2010."*
+The line chart compares/demonstraites/illustrates the rates/resio of visitors to Brighton, England, who visited four various tourist spots from 1980 to 2010.
+> [!TIP]
+> Just paraphrase the given question statement using 75% synonyms in one sentence.
 
-### Overview Example
+### Overview
 Overall, it is clear that Piar and Pavilion saw an increase in the percentage of visitors between 1980 and 2010. In contrast, Art Gallery and Festival experienced a fall in the rates of tourists over the same period.
 
 > [!TIP]
-> **Overall, it is clear that** এটা দিয়ে সব সময় Overview লিখা শুরু করব।
+> **Overall, it is clear that** এটা দিয়ে সব সময় Overview লিখা শুরু করব এবং দুই লাইনে শেষ করব।
  
 
 ### 3. Body Paragraph 1: Detailed Data Analysis (Major Trends)
@@ -56,14 +68,5 @@ Overall, it is clear that Piar and Pavilion saw an increase in the percentage of
 > **Drafting Example:**
 > *"Regarding the other venues, Festivals began as the most popular attraction in 1980 at nearly 30%, but gradually decreased to a low of 25% in 1995, before leveling off and stabilizing at 28% through 2010. Conversely, Piers remained the least visited venue for most of the period, hovering between 9% and 14%, until a late surge brought its attendance up to just over 22% in 2010, surpassing Art Galleries."*
 
----
-
-## 🛠️ Vocabulary Cheat Sheet for Line Graphs
-
-| Trend Type | Verbs | Nouns | Adjectives / Adverbs |
-| :--- | :--- | :--- | :--- |
-| **Upward ↑** | Rose, Increased, Climbed, Surged, Peaked | A rise, An increase, A growth, A surge | Sharp, Dramatic, Steady, Significant |
-| **Downward ↓** | Fell, Decreased, Declined, Dropped, Plummeted | A fall, A decrease, A decline, A drop | Slight, Gradual, Sharp, Steep |
-| **Stability →** | Remained stable, Leveled off, Fluctuated | Fluctuations, Stability | Relatively, Marginally, Rapidly |
 
 ---
