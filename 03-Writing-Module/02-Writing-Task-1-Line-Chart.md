@@ -67,6 +67,10 @@ or
 Looking at the details, Art Gallery attendance started at roughly 22% in 1980, followed by a dramatic surge to its peak at nearly 38% in 1985. However, this was followed by a sharp drop to under 20% in 1990, eventually plummeting to its lowest point at around 8% in 2010. In stark contrast, Pavilions saw a steady and significant climb, starting from just over 23% in 1980 and reaching a substantial peak of approximately 48% in 1995, before declining to 31% by 2010.
 
 ### Main Body 2
+The other two popular visiting spots in Brighton, England, were Art Gallery and Festival from 1980 to 2010. During this period, the number of people who travelled to Festival decreased slightly from 30% to nearly 28%, a fall of 2% in 30 years. In 1980, the Art Gallery was the third most popular tourist spot, which peaked at 38% in 1985. However, over the next 25 years, the number of visitors to this declined to roughly 10%.
+
+or
+
 Regarding the other venues, Festivals began as the most popular attraction in 1980 at nearly 30%, but gradually decreased to a low of 25% in 1995, before leveling off and stabilizing at 28% through 2010. Conversely, Piers remained the least visited venue for most of the period, hovering between 9% and 14%, until a late surge brought its attendance up to just over 22% in 2010, surpassing Art Galleries."*
 
 
