@@ -60,6 +60,10 @@ The line chart compares/demonstraites/illustrates the rates/resio of visitors to
 Overall, it is clear that Piar and Pavilion saw an increase in the percentage of visitors between 1980 and 2010. In contrast, Art Gallery and Festival experienced a fall in the rates of tourists over the same period.
 
 ### Main Body 1
+In 1980, approximately 25% of tourists visited Pavilion, while the figure for Pier was 10%. Over the following years, the percentage of visitors to Pavilion increased dramatically to about 50% in 1995 before declining by about 20% in 2010. Meanwhile, the percentage of visitors to Pier saw an increase of almost 12% over the same period.
+
+or 
+
 Looking at the details, Art Gallery attendance started at roughly 22% in 1980, followed by a dramatic surge to its peak at nearly 38% in 1985. However, this was followed by a sharp drop to under 20% in 1990, eventually plummeting to its lowest point at around 8% in 2010. In stark contrast, Pavilions saw a steady and significant climb, starting from just over 23% in 1980 and reaching a substantial peak of approximately 48% in 1995, before declining to 31% by 2010.
 
 ### Main Body 2
