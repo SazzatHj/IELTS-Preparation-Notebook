@@ -36,7 +36,28 @@ Click on the modules or chapters below to navigate directly to the specific clas
 * 📄 [Class 04: Listening Overview & Core Strategies](./02-Listening-Module/Class-04-Listening-Overview.md) — *৪টি সেকশনের প্রশ্ন পরিচিতি, শব্দ সংখ্যার নিয়ম ও ৪টি গোল্ডেন প্র্যাকটিস স্টেপ*
 
 ### ✍️ 03. Writing Module
-* 📄 [Class 01: Writing Overview](./03-Writing-Module/Class-01-Writing-Overview.md) — *টাস্ক-১ এবং টাস্ক-২ এর রাইটিং গাইডলাইন*
+📁 03-Writing-Module
+│
+├── 📄 00-Writing-Module-Overview.md  (পুরো রাইটিং মডিউলের সাধারণ পরিচিতি)
+│
+├── 📁 01-Writing-Task-1-Academic
+│   ├── 📄 00-Task-1-Overview.md
+│   ├── 📄 01-Paragraph-Layout-and-Strategies.md
+│   ├── 📄 02-Line-Chart-Report.md
+│   ├── 📄 03-Bar-Chart-Report.md
+│   ├── 📄 04-Pie-Chart-Report.md
+│   ├── 📄 05-Table-Report.md
+│   ├── 📄 06-Process-Diagram.md
+│   ├── 📄 07-Map-Changes.md
+│   └── 📄 08-Lexical-Resource-Master-Note.md (যেটি মাত্র তৈরি করলেন)
+│
+└── 📁 02-Writing-Task-2-Essay
+    ├── 📄 00-Task-2-Overview-and-Essay-Types.md
+    ├── 📄 01-Essay-Introduction-Strategies.md
+    ├── 📄 02-Main-Body-Paragraph-Generation.md
+    ├── 📄 03-Essay-Conclusion-Writing.md
+    ├── 📄 04-Connectors-and-Cohesion-for-IELTS.md
+    └── 📄 05-Advanced-Vocabulary-and-Grammar.md
 
 ### 📖 04. Reading Module
 * 📄 [Class 01: Reading Overview](./04-Reading-Module/Class-01-Reading-Overview.md) — *ভবিষ্যতের রিডিং ক্লাসের নোটের জন্য নির্ধারিত স্পেস*
