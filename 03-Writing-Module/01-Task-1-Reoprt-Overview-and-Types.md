@@ -5,7 +5,7 @@ An elegant, comprehensive reference guide for IELTS Academic Writing Task 1, cov
 
 ---
 
-## 📊 Task-2 (Report) Structure & Word Distribution (৪টি প্যারাগ্রাফের আদর্শ ফ্রেমওয়ার্ক)
+## 📊 Task-1 (Report) Structure & Word Distribution (৪টি প্যারাগ্রাফের আদর্শ ফ্রেমওয়ার্ক)
 | Paragraph | Section | Word Limit | Details |
 | :--- | :--- | :---: | :--- |
 | **Paragraph 1** | **Introduction** | 20–30 words | এক বাক্যে প্রশ্ন বা টপিক প্যারাফ্রেজ করব। |
