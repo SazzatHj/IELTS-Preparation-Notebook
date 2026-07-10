@@ -1,6 +1,6 @@
 # IELTS Academic Writing Task 1: Line Chart Analysis
 
-This module focuses on analyzing and describing data from a Line Chart in IELTS Academic Writing Task 1. To achieve a Band 7+ or higher, your report must follow a structured approach, including an introduction, overview, and specific data details.
+This module focuses on analyzing and describing data from a Line Chart in IELTS Academic Writing Task 1. To achieve a Band 7+ or higher, your report must follow a structured approach, including an introduction, overview, and specific data details (main body 1, main body 2).
 
 ---
 
