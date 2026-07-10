@@ -6,14 +6,14 @@ This module focuses on analyzing and describing data from a Line Chart in IELTS 
 
 ## Report Writing Format and Role
 
-### 1. Introduction (Paraphrase the Question in ONE SENTENCE)
-* For the first paragraph (introduction), paraphrase the given question statement into one sentence using your own words without changing the core meaning. **Aim to rewrite around 75% of the original text** using synonyms, and do not include any external information.
+### 1. Introduction (Paraphrase the Question in only ONE SENTENCE)
+* For the first paragraph (INTRODUCTION), paraphrase the given question statement into one sentence using your own words without changing the core meaning. **Aim to rewrite around 75% of the original text** using synonyms, and do not include any external information.
 * **Key Vocabulary:** *illustrates, depicts, compares, reveals, trends, percentages, proportions.*
 
 > [!TIP]
 > Just paraphrase the given question statement using 75% synonyms in one sentence.
 
-### 2. General Overview (The Most Crucial Paragraph, and It will be Two Sentences)
+### 2. General Overview (The Most Crucial Paragraph, and It will be only TWO SENTENCES)
 * The Overview section (2nd paragraph) block must **never** contain specific numbers, data values, raw figures, or precise percentages. You may only state the general year or timeline if necessary to mark the trend —just the big picture!
 * Summarize the main trends without mentioning specific numbers. Look for the highest/lowest points and overall directions (increase, decrease, or fluctuations).
 
