@@ -9,8 +9,8 @@ An elegant, comprehensive reference guide for IELTS Academic Writing Task 1, cov
 | Paragraph | Section | Word Limit | Details |
 | :--- | :--- | :---: | :--- |
 | **Paragraph 1** | **Introduction** | 20–30 words | এক বাক্যে প্রশ্ন বা টপিক প্যারাফ্রেজ করব। |
-| **Paragraph 2** | **Overview** | 20-40 words | পুরো চিত্রটির ২ বাক্যের সারসংক্ষেপ, তবে কোন ডাটা দেওয়া যাবে না, প্রয়োজনে কেবল সাল উল্লেখ করব। |
-| **Paragraph 3** | **Main Body 1** | 40-60 words | ৩/৪ বাক্যে একই ধরনের ডাটা শুরু+উত্থান/পতন+শেষ দিয়ে মেইন বডি ১ শেষ করব।  |
+| **Paragraph 2** | **Overview** | 20-40 words | গ্রাফের ২ বাক্যের সারসংক্ষেপ, তবে কোন ডাটা দেওয়া যাবে না, প্রয়োজনে কেবল সাল উল্লেখ করব। |
+| **Paragraph 3** | **Main Body 1** | 40-60 words | ৩/৪ বাক্যে একই ধরনের ডাটা গ্রুপ করে মেইন বডি ১ শেষ করব।  |
 | **Paragraph 4** | **Main Body 2** | 40-60 words | ৩/৪ বাক্যে বাকি ডাটা দিয়ে মেইন বডি ২ শেষ করব। |
 | **Total** | **Complete Report** | **150+ words** | **ন্যূনতম ১৫০ শব্দ** লিখতেই হবে। |
 
@@ -21,16 +21,16 @@ An elegant, comprehensive reference guide for IELTS Academic Writing Task 1, cov
 To maximize Coherence and Cohesion (CC), your report must rigorously follow this 4-paragraph layout:  
 *(কোহেরেন্স অ্যান্ড কোহিশন বা লেখার ধারাবাহিকতা বজায় রাখতে আপনার রিপোর্টটি অবশ্যই নিচের ৪টি প্যারাগ্রাফে ভাগ করতে হবে:)*
 
-1. **Paragraph 1: Introduction**
+1. **Introduction**
    * **Strategy:** Paraphrase the prompt question using synonyms and alternative structures. Do not add anything extra.  
    * *(কৌশল: প্রশ্নটিকে নিজের ভাষায় সমার্থক শব্দ (Synonyms) ব্যবহার করে ঘুরিয়ে লিখুন। অতিরিক্ত কোনো তথ্য দেবেন না।)*
-2. **Paragraph 2: Overview**
+2. **Overview**
    * **Strategy:** Highlight the overall main trends, highest/lowest points, or key stages. No specific numbers/data points should be placed here.  
    * *(কৌশল: পুরো গ্রাফের মূল পরিবর্তন, সর্বোচ্চ ও সর্বনিম্ন পয়েন্ট বা প্রধান ধাপগুলো তুলে ধরুন। এখানে কোনো নির্দিষ্ট সংখ্যা বা পার্সেন্টেজ দেওয়া যাবে না।)*
-3. **Paragraph 3: Main Body Paragraph 1**
+3. **Main Body 1**
    * **Strategy:** Group and describe relevant specific data or features logically.  
    * *(কৌশল: গ্রাফের তথ্যের একটি অংশকে যুক্তিসঙ্গতভাবে গ্রুপ করে এখানে বিস্তারিত আলোচনা করুন।)*
-4. **Paragraph 4: Main Body Paragraph 2**
+4. **Main Body 2**
    * **Strategy:** Compare or describe the remaining features/segments of the graph.  
    * *(কৌশল: গ্রাফের বাকি থাকা তথ্য বা অংশগুলোর বিবরণ ও তুলনা এখানে লিখুন।)*
 
