@@ -5,13 +5,17 @@ An elegant, comprehensive reference guide for IELTS Academic Writing Task 1, cov
 
 ---
 
-## 1. Exam Structure & Paragraph Layout
+## 📊 Task-2 (Report) Structure & Word Distribution (৪টি প্যারাগ্রাফের আদর্শ ফ্রেমওয়ার্ক)
+| Paragraph | Section | Word Limit | Details |
+| :--- | :--- | :---: | :--- |
+| **Paragraph 1** | **Introduction** | 20–30 words | প্রশ্নের প্যারাফ্রেজ এবং থিসিস স্টেটমেন্ট। |
+| **Paragraph 2** | **Overview** | 20-40 words | প্রথম পয়েন্ট বা প্রথম পক্ষের বিস্তারিত আলোচনা ও উদাহরণ। |
+| **Paragraph 3** | **Main Body 1** | 40-60 words | দ্বিতীয় পয়েন্ট বা দ্বিতীয় পক্ষের বিস্তারিত আলোচনা ও উদাহরণ। |
+| **Paragraph 4** | **Main Body 2** | 40-60 words | পুরো লেখার একটি সংক্ষিপ্ত সারসংক্ষেপ বা শেষ সিদ্ধান্ত। |
+| **Total** | **Complete Report** | **150+ words** | **ন্যূনতম ১৫০ শব্দ** লিখতেই হবে। |
 
-| Parameter | Standard Requirements |
-| :--- | :--- | 
-| **Target Word Count** | Minimum **150 Words** | 
-| **Time Allocation** | **20 Minutes** (Recommended) But we will take 25 mins |
-| **Nature of Task** | Data/Process Objective Report Writing | 
+⏱️ **Time Management:** রাইটিং টাস্ক-১ (রিপোর্ট) এর জন্য অফিসিয়াল সময় ২৫ মিনিট হলেও, পরীক্ষার হলে রিভিশনের সুযোগ পাওয়ার জন্য ক্লাসে এটি **২০ মিনিটে** শেষ করার প্র্যাকটিস করতে হবে।
+
 
 ### Standard Paragraph Breakdown
 To maximize Coherence and Cohesion (CC), your report must rigorously follow this 4-paragraph layout:  
