@@ -1,7 +1,7 @@
 
 # IELTS Listening Section 2 & Map Labelling Masterclass
 
-IELTS Listening টেস্টের **Section 2 (বা Part 2)**-এ সাধারণত একটি সামাজিক প্রেক্ষাপটে (Social Context) একজন স্পিকার কোনো একটি নির্দিষ্ট বিষয়, স্থান বা প্রজেক্ট নিয়ে দীর্ঘ বক্তব্য (Monologue) দেন। এই সেকশনে ভালো ব্যান্ড স্কোর নিশ্চিত করতে **Map/Plan Labelling** এবং এর সাথে জড়িত **Directional Connectors** এর নিখুঁত জ্ঞান থাকা আবশ্যক।
+IELTS Listening টেস্টের **Section 2 (বা Part 2)** -এ সাধারণত একটি সামাজিক প্রেক্ষাপটে (Social Context) একজন স্পিকার কোনো একটি নির্দিষ্ট বিষয়, স্থান বা প্রজেক্ট নিয়ে দীর্ঘ বক্তব্য (Monologue) দেন। এই সেকশনে ভালো ব্যান্ড স্কোর নিশ্চিত করতে **Map/Plan Labelling** এবং এর সাথে জড়িত **Directional Connectors** এর নিখুঁত জ্ঞান থাকা আবশ্যক।
 
 ---
 
