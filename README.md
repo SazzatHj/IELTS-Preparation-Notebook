@@ -15,7 +15,7 @@ Welcome! This is the live digital archive of my personal IELTS preparation. Here
 | **01. Speaking Module** | 03 | 03 / 03 | ✅ Completed |
 | **02. Listening Module** | 04 | 04 / 04 | ✅ Completed |
 | **03. Writing Module** | 14 | 14 / 14 | ✅ Completed |
-| **04. Reading Module** | 07 | 00 / 01 | ✅ Completed |
+| **04. Reading Module** | 08 | 06 / 08 | ✅ Completed |
 
 ---
 
