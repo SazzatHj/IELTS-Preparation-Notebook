@@ -14,10 +14,10 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 ---
 
 ## 🎧 Listening & Speaking Resources
+* [Free4talk](https://www.free4talk.com/) - Online platform to practice speaking English in real-time with native and ESL speakers in group voice rooms.
 * [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) - Perfect for daily listening practice, accents, and topic-based vocabulary.
 * [IELTS Liz (Listening & Speaking)](https://ieltsliz.com/) - Offers mock tests, topic cards, and strategies for part 1, 2, and 3 speaking.
 * [TED Talks](https://www.ted.com/talks) - Great for building listening endurance and gathering vocabulary on various global topics.
-* [Free4talk](https://www.free4talk.com/) - Online platform to practice speaking English in real-time with native and ESL speakers in group voice rooms.
 
 
 
