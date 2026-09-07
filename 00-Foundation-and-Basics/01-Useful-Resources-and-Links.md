@@ -39,6 +39,23 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 * [BBC News](https://www.bbc.com/news) - Ideal for a daily reading habit and expanding topical knowledge.
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Reliable resource for phonetics, collocations, and contextual usage of vocabulary.
 
+
+---
+
+## 🤖 AI Tools for IELTS & Speaking Practice
+* [TalkPal AI](https://talkpal.ai/) - An AI-powered language tutor that allows real-time voice conversations and provides instant feedback on grammar and pronunciation.
+* [SmallTalk2.me](https://smalltalk2.me/) - Designed specifically for IELTS Speaking practice, providing instant band score estimation and detailed vocabulary feedback.
+* [LanguaTalk (Langua AI)](https://languatalk.com/) - Interactive AI conversation tool for practicing natural English speech and accent comprehension.
+* [ChatGPT Voice](https://chatgpt.com/) - Available on the mobile app; excellent for practicing topic-based discussions and IELTS Speaking Part 1, 2, and 3 questions interactively.
+
+---
+
+## 📱 Interactive Language Apps (Duolingo Alternatives)
+* [Duolingo](https://www.duolingo.com/) - Gamified language learning app to build basic grammar, vocabulary, and daily habit tracking.
+* [Busuu](https://www.busuu.com/) - Offers structured English courses with feedback from native speakers and grammar lessons.
+* [Memrise](https://www.memrise.com/) - Focuses on real-life vocabulary and native speaker video clips for natural accent acquisition.
+* [Mondly](https://www.mondly.com/) - Interactive language learning app focusing on daily conversation scenarios and vocabulary building.
+* [Elsa Speak](https://elsaspeak.com/) - AI-powered app focusing specifically on English pronunciation, stress, and intonation correction.
   
 <!-- FOOTER -->
 ---
