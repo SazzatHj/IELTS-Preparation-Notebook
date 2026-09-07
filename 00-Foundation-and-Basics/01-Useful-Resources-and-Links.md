@@ -17,12 +17,8 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 * [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) - Perfect for daily listening practice, accents, and topic-based vocabulary.
 * [IELTS Liz (Listening & Speaking)](https://ieltsliz.com/) - Offers mock tests, topic cards, and strategies for part 1, 2, and 3 speaking.
 * [TED Talks](https://www.ted.com/talks) - Great for building listening endurance and gathering vocabulary on various global topics.
-
-
 * [Free4talk](https://www.free4talk.com/) - Online platform to practice speaking English in real-time with native and ESL speakers in group voice rooms.
-* [HelloTalk](https://www.hellotalk.com/) - Language exchange app to connect with native English speakers via text, voice notes, and calls.
-* [Tandem](https://www.tandem.net/) - Language learning community to pair up with language partners worldwide for conversational practice.
-* [Speaky](https://www.speaky.com/) - Social network dedicated to language exchange and instant speaking practice with global learners.
+
 
 
 ---
@@ -43,6 +39,7 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 ---
 
 ## 🤖 AI Tools for IELTS & Speaking Practice
+* [Dola AI](https://www.dola.ai/) - An AI assistant accessible directly via WhatsApp and Telegram for natural voice and text conversation practice.
 * [TalkPal AI](https://talkpal.ai/) - An AI-powered language tutor that allows real-time voice conversations and provides instant feedback on grammar and pronunciation.
 * [SmallTalk2.me](https://smalltalk2.me/) - Designed specifically for IELTS Speaking practice, providing instant band score estimation and detailed vocabulary feedback.
 * [LanguaTalk (Langua AI)](https://languatalk.com/) - Interactive AI conversation tool for practicing natural English speech and accent comprehension.
@@ -52,10 +49,14 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 
 ## 📱 Interactive Language Apps (Duolingo Alternatives)
 * [Duolingo](https://www.duolingo.com/) - Gamified language learning app to build basic grammar, vocabulary, and daily habit tracking.
+* [Free4talk](https://www.free4talk.com/) - Online platform to practice speaking English in real-time with native and ESL speakers in group voice rooms.
+
 * [Busuu](https://www.busuu.com/) - Offers structured English courses with feedback from native speakers and grammar lessons.
 * [Memrise](https://www.memrise.com/) - Focuses on real-life vocabulary and native speaker video clips for natural accent acquisition.
 * [Mondly](https://www.mondly.com/) - Interactive language learning app focusing on daily conversation scenarios and vocabulary building.
 * [Elsa Speak](https://elsaspeak.com/) - AI-powered app focusing specifically on English pronunciation, stress, and intonation correction.
+* [HelloTalk](https://www.hellotalk.com/) - Language exchange app to connect with native English speakers via text, voice notes, and calls.
+* [Tandem](https://www.tandem.net/) - Language learning community to pair up with language partners worldwide for conversational practice.
   
 <!-- FOOTER -->
 ---
