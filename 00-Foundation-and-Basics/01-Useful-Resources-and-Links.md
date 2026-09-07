@@ -50,10 +50,10 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 ## 📱 Interactive Language Apps (Duolingo Alternatives)
 * [Duolingo](https://www.duolingo.com/) - Gamified language learning app to build basic grammar, vocabulary, and daily habit tracking.
 * [Free4talk](https://www.free4talk.com/) - Online platform to practice speaking English in real-time with native and ESL speakers in group voice rooms.
-
 * [Busuu](https://www.busuu.com/) - Offers structured English courses with feedback from native speakers and grammar lessons.
-* [Memrise](https://www.memrise.com/) - Focuses on real-life vocabulary and native speaker video clips for natural accent acquisition.
-* [Mondly](https://www.mondly.com/) - Interactive language learning app focusing on daily conversation scenarios and vocabulary building.
+  
+* [Memrise](https://www.memrise.com/) - Focuses on real-life vocabulary and native speaker video clips for natural accent acquisition. (Not for Bengalis)
+* [Mondly](https://www.mondly.com/) - Interactive language learning app focusing on daily conversation scenarios and vocabulary building. (Not for Bengalis)
 * [Elsa Speak](https://elsaspeak.com/) - AI-powered app focusing specifically on English pronunciation, stress, and intonation correction.
 * [HelloTalk](https://www.hellotalk.com/) - Language exchange app to connect with native English speakers via text, voice notes, and calls.
 * [Tandem](https://www.tandem.net/) - Language learning community to pair up with language partners worldwide for conversational practice.
