@@ -18,6 +18,13 @@ A curated list of high-quality resources, websites, and YouTube channels to exce
 * [IELTS Liz (Listening & Speaking)](https://ieltsliz.com/) - Offers mock tests, topic cards, and strategies for part 1, 2, and 3 speaking.
 * [TED Talks](https://www.ted.com/talks) - Great for building listening endurance and gathering vocabulary on various global topics.
 
+
+* [Free4talk](https://www.free4talk.com/) - Online platform to practice speaking English in real-time with native and ESL speakers in group voice rooms.
+* [HelloTalk](https://www.hellotalk.com/) - Language exchange app to connect with native English speakers via text, voice notes, and calls.
+* [Tandem](https://www.tandem.net/) - Language learning community to pair up with language partners worldwide for conversational practice.
+* [Speaky](https://www.speaky.com/) - Social network dedicated to language exchange and instant speaking practice with global learners.
+
+
 ---
 
 ## ✍️ Writing Resources
